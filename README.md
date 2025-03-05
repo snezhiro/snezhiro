@@ -2,8 +2,15 @@
   <center>
 <h1 align="center"> WELCOME TO MY PROFILE !! 🐋</h1>
     
-<div align="center"> the name is Snezhiro, but you can just call me yours haha, no. anyway, Snezh for short!
-.. i'm an artist in the genshin community, i mainly draw ZHONGCHI.
+<div align="center">
+  
+  <p>the name is Snezhiro! but you can just call me yours haha, no.</p>
+  <p>anyway, Snezh for short! i'm an artist in the genshin community, i mainly draw ZHONGCHI. </p>
+
+
+
+
+
 
 ##
 
