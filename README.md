@@ -29,10 +29,17 @@
 
 ##
 
-<h2 align="center"> 🦊 ABOUT ME 🐟 </h2>
-
- - Gender : He/him / Male
- - Sexuality : Gay
- - MBTI: Enfp
- 
- <p> i love myself very much hahaaah (i need a hug plea) </p>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://images-ext-1.discordapp.net/external/vABYNVVYYYnKzSe7U9A6oEeIlzwtIjIB0hvRiRf5uM8/https/media.tenor.com/BxrsLphRAFAAAAPo/childe-childe-genshin.mp4" align="right">
+    
+  </div>
+<li>
+ <b>GENDER:</b> i'm a male. i'm a man. i'm a he.i don't do those mentally ill stuff /ref</li>
+<li>
+<b>MBTI:</b> Enfp !!!
+</li>
+<li>
+<b>SEXUALITY:</b> Gay
+</li>
