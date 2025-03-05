@@ -34,4 +34,5 @@
  - Gender : He/him / Male
  - Sexuality : Gay
  - MBTI: Enfp
- - i love myself hahaaah (i need a hug)
+ 
+ <p> i love myself very much hahaaah (i need a hug plea) </p>
