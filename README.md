@@ -31,14 +31,32 @@
 
 <div>
 <h2 align="center"> <b>ABOUT ME 🐟 </b> </h2>
+  
   <div align="center">
 <img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67c8f763&is=67c7a5e3&hm=a43338c522719bce9754efc2c0bb2aa00652155fc3b0e0ed5c3eb2e1c31ed533&" align="right">
     
   </div>
-  <div
-<li>
- <b>GENDER:</b> i'm a male. i'm a man. i'm a he.i don't do those mentally ill stuff /ref</li>
-<b>MBTI:</b> Enfp !!!
-  </li>
-- <b>SEXUALITY:</b> Gay
-</div>
+
+  <h3 align="left">
+    
+  
+ <b>NAMES:</b> Snezhiro/Snezh </li>
+ 
+
+<b>GENDER:</b> im a male. im a man. im a he. i dont do those mentally ill stuff. /ref
+
+
+<b>SEXUALITY:</b> Gay
+
+  
+
+<b>HOBBIES:</b> sleep (draw + a little bit of piano)
+
+
+
+  <b>MBTI:</b> Enfp!!
+
+
+</h3>
+
+i've been dying to be held by a zhongli cosplayer
