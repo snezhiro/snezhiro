@@ -1,16 +1,14 @@
 <body>
   <center>
-<h1 align="center"> welcome to my profile !! 🐋</h1>
+<h1 align="center"> WELCOME TO MY PROFILE !! 🐋</h1>
     
-the name is **Snezhiro**, but you can just call me yours haha, no. anyway, **Snezh** for short!
-.. i'm an artist in the genshin community, mainly **ZHONGCHI**.
+<div align="center"> the name is Snezhiro, but you can just call me yours haha, no. anyway, Snezh for short!
+.. i'm an artist in the genshin community, i mainly draw ZHONGCHI.
+
+ <div align="center">
+   
+<img src="https://media.discordapp.net/attachments/1297897624996810819/1346638736364142635/20250305_082117.gif?ex=67c8ea8e&is=67c7990e&hm=2f02ff21ac0358044f14eac56c2e8ea2487628c5d49ce5a96c14205af780e039&" align="right">
+  </div>
 
 
 ## <h1 align="center"> <p><a href="https://youtu.be/LOmwjjqQuiI?si=AwGvuldBqIQ3LOQ_"> “🔶💧”</a><p> </h1>
-
-## facts about me !! 🌊 
-- i love myself trust haha (i need a hug)
-- **MBTI:** enfp
-- **PRONOUNS:** he/him
-- **SEXUALITY:** gay wwww
-- **HOBBIES:** sleep (draw + a little bit of piano)
