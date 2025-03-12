@@ -16,7 +16,7 @@
 ##
     
  <div align="center">
-   <img src="https://media.discordapp.net/attachments/1297897624996810819/1346638736364142635/20250305_082117.gif?ex=67c8ea8e&is=67c7990e&hm=2f02ff21ac0358044f14eac56c2e8ea2487628c5d49ce5a96c14205af780e039&" align="center">
+   <img src="https://cdn.discordapp.com/attachments/1297897624996810819/1346638736364142635/20250305_082117.gif?ex=67d2cdce&is=67d17c4e&hm=ddaaf89d73c26457a5270671b0323c28f6a36f4fcf5991a5946d32629c2d0c6d&" align="center">
   </div>
     <h1 align="center"> <p><a href="https://youtu.be/LOmwjjqQuiI?si=AwGvuldBqIQ3LOQ_"> “🔶💧”</a><p> </h1>
    <br>
@@ -33,7 +33,7 @@
 <h2 align="center"> <b>ABOUT ME 🐟 </b> </h2>
   
   <div align="center">
-<img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67c8f763&is=67c7a5e3&hm=a43338c522719bce9754efc2c0bb2aa00652155fc3b0e0ed5c3eb2e1c31ed533&" align="right">
+<img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67d2daa3&is=67d18923&hm=1a649037c9437f0ee333648d6ebd90ead8aa31f16a78afad24a4e93cd3387458&" align="right">
     
   </div>
 
@@ -51,7 +51,6 @@
   
 
 <b>HOBBIES:</b> sleep (draw + a little bit of piano)
-
 
 
   <b>MBTI:</b> Enfp!!
