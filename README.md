@@ -16,7 +16,7 @@
 ##
     
  <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/1297897624996810819/1346638736364142635/20250305_082117.gif?ex=67d2cdce&is=67d17c4e&hm=ddaaf89d73c26457a5270671b0323c28f6a36f4fcf5991a5946d32629c2d0c6d&" align="center">
+   <img src="https://media.discordapp.net/attachments/1297897624996810819/1346638736364142635/20250305_082117.gif?ex=67d9654e&is=67d813ce&hm=f83f8d32a467f476664078852394329f5f619eac92401270d4a0fa4f7f70b905&" align="center">
   </div>
     <h1 align="center"> <p><a href="https://youtu.be/LOmwjjqQuiI?si=AwGvuldBqIQ3LOQ_"> “🔶💧”</a><p> </h1>
    <br>
@@ -33,7 +33,7 @@
 <h2 align="center"> <b>ABOUT ME 🐟 </b> </h2>
   
   <div align="center">
-<img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67d2daa3&is=67d18923&hm=1a649037c9437f0ee333648d6ebd90ead8aa31f16a78afad24a4e93cd3387458&" align="right">
+<img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67d97223&is=67d820a3&hm=edcd164f2e571744e5d34237277a97b24762dcb382e8939e4fe0a0f1520ea122&" align="right">
     
   </div>
 
