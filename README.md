@@ -33,7 +33,7 @@
 <h2 align="center"> <b>ABOUT ME 🐟 </b> </h2>
   
   <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67e6a123&is=67e54fa3&hm=593967ba5c255a2553cb3598d8d05c1b39a5edd7b6d787df21c78b7032cd1dfc&" align="right">
+<img src="https://media.discordapp.net/attachments/1297897624996810819/1346652516833558548/lv_0_20250305091604.gif?ex=67eb3e63&is=67e9ece3&hm=c3838c78f9d5b1cce6d0b649d9258fa3e42016740e8b26cc8b52e3faf3684203&" align="right">
     
   </div>
 
